@@ -40,7 +40,6 @@
 
   .header__logo {
     grid-area: logo;
-    justify-self: center;
     align-self: center;
   }
   
